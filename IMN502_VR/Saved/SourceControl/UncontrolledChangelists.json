@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/thoma/Desktop/UdeS/IMN502/imn502_vr/IMN502_VR/Content/VRTemplate/Blueprints/Scoreboard.uasset",
+				"C:/Users/thoma/Desktop/UdeS/IMN502/imn502_vr/IMN502_VR/Content/VRTemplate/Blueprints/ScoreCounter.uasset",
+				"C:/Users/thoma/Desktop/UdeS/IMN502/imn502_vr/IMN502_VR/Content/VRTemplate/Blueprints/VRGameMode.uasset",
+				"C:/Users/thoma/Desktop/UdeS/IMN502/imn502_vr/IMN502_VR/Content/VRTemplate/Blueprints/digital-7_Font.uasset",
+				"C:/Users/thoma/Desktop/UdeS/IMN502/imn502_vr/IMN502_VR/Content/VRTemplate/Blueprints/digital-7.uasset",
+				"C:/Users/thoma/Desktop/UdeS/IMN502/imn502_vr/IMN502_VR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/thoma/Desktop/UdeS/IMN502/imn502_vr/IMN502_VR/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/thoma/Desktop/UdeS/IMN502/imn502_vr/IMN502_VR/Content/VRTemplate/Blueprints/ActorTest.uasset"
+			]
+		}
+	]
+}
